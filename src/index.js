@@ -14,6 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
             handleSendInput
         }
     })
+    //Should I add the Fetch Functionality Here or  I direct to a function outside just like how you are doing?
 })
 
 function handleSendInput() {
